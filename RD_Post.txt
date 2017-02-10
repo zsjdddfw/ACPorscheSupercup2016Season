@@ -1,0 +1,29 @@
+[IMG]http://i.imgur.com/lagrQDv.jpg[/IMG]
+This is the first version of my Porsche Supercup 2016 Season Assetto Corsa Career mod.
+
+Features:
+[LIST]
+[*]Real drivers' names, real drivers' nationalities, and real race cars' liveries. Please download skins from [USER=194028]@speedracer1893[/USER] 's [URL='http://www.racedepartment.com/downloads/911-gt3-supercup-2016-skin-pack.13140/']skin pack[/URL], and [USER=4910]@Jebus[/USER] 's [URL='http://www.racedepartment.com/downloads/pmsc-2016-momo-megatron-team-partrax-48.13543/']#48 Dino Zamparelli livery[/URL] and [URL='http://www.racedepartment.com/downloads/pmsc-2016-dinamic-motorsport-36-37-38.13582/']Dinamic Motorsport liveries[/URL].
+[*]Actual historical weather, and actual historical temperatures from weather records on race day.
+[*]Full-length race, realistic practice and qualifying sessions length.
+[*]Round 1 Catalunya, Round 3 Spielberg, Round 4 Silverstone, [URL='http://www.racedepartment.com/downloads/hockenheimring-multi-layout.7223/']Round 6 Hockenheim[/URL], Round 7 Spa, Round 8 Monza are currently imported. More to come in future updates.
+[*]Actual real racing photos as thumbnails.
+[/LIST]
+Current to-do list:
+[LIST]
+[*]Add [URL='http://www.racedepartment.com/downloads/hungaroring.2577/']Hungaroring [/URL]to career mode.
+[*]Use [URL='http://www.racedepartment.com/downloads/good-and-bad-weathers.11194/']gbw weather[/URL].
+[*]Use OSRW layouts for larger grid.
+[*]Adjust AI for individual drivers to best match their performance during the season (huge project, will take some more time).
+[/LIST]
+Current required contents download list:
+[LIST]
+[*][URL]http://www.racedepartment.com/downloads/911-gt3-supercup-2016-skin-pack.13140/[/URL]
+
+[*][URL]http://www.racedepartment.com/downloads/pmsc-2016-momo-megatron-team-partrax-48.13543/[/URL]
+
+[*][URL]http://www.racedepartment.com/downloads/pmsc-2016-dinamic-motorsport-36-37-38.13582/[/URL]
+
+[*][URL]http://www.racedepartment.com/downloads/hockenheimring-multi-layout.7223/[/URL]
+[/LIST]
+This is the first career mode that I try to create and share. Please provide feedback on it so I can keep improving it, and help me make more and better custom career mode in the future.
