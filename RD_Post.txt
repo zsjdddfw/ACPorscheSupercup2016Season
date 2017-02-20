@@ -1,29 +1,48 @@
-[IMG]http://i.imgur.com/lagrQDv.jpg[/IMG]
-This is the first version of my Porsche Supercup 2016 Season Assetto Corsa Career mod.
+[IMG]http://i.imgur.com/ifRhE92.png[/IMG]
+This is my Porsche Supercup 2016 Season Assetto Corsa Career mod.
 
-Features:
+[B]Features:[/B]
 [LIST]
 [*]Real drivers' names, real drivers' nationalities, and real race cars' liveries. Please download skins from [USER=194028]@speedracer1893[/USER] 's [URL='http://www.racedepartment.com/downloads/911-gt3-supercup-2016-skin-pack.13140/']skin pack[/URL], and [USER=4910]@Jebus[/USER] 's [URL='http://www.racedepartment.com/downloads/pmsc-2016-momo-megatron-team-partrax-48.13543/']#48 Dino Zamparelli livery[/URL] and [URL='http://www.racedepartment.com/downloads/pmsc-2016-dinamic-motorsport-36-37-38.13582/']Dinamic Motorsport liveries[/URL].
 [*]Actual historical weather, and actual historical temperatures from weather records on race day.
 [*]Full-length race, realistic practice and qualifying sessions length.
-[*]Round 1 Catalunya, Round 3 Spielberg, Round 4 Silverstone, [URL='http://www.racedepartment.com/downloads/hockenheimring-multi-layout.7223/']Round 6 Hockenheim[/URL], Round 7 Spa, Round 8 Monza are currently imported. More to come in future updates.
+[*]Round 1 Catalunya, Round 3 Spielberg, Round 4 Silverstone, [URL='http://www.racedepartment.com/downloads/hockenheimring-multi-layout.7223/']Round 6 Hockenheim[/URL], Round 7 Spa, Round 8 Monza are currently included. More to come in future updates.
 [*]Actual real racing photos as thumbnails.
 [/LIST]
-Current to-do list:
+
+[B]Current to-do list:[/B]
 [LIST]
-[*]Add [URL='http://www.racedepartment.com/downloads/hungaroring.2577/']Hungaroring [/URL]to career mode.
 [*]Use [URL='http://www.racedepartment.com/downloads/good-and-bad-weathers.11194/']gbw weather[/URL].
-[*]Use OSRW layouts for larger grid.
+[*]Use OSRW layouts for larger grid (Current 24-car grid is already quite heavy on CPU on my E3-1230v3, so more testing will be done before OSRW layouts are added).
+[*]Add more tracks to the career mode and complete the experience. Due to the [URL='http://www.racedepartment.com/downloads/hungaroring.2577/']Hungaroring track on RaceDepartment[/URL] being broken for offline racing, planned update to add Hungaroring is temporarily halted.
+[*]Make multiple versions for people who prefer stock weather vs gbw weather, large grid vs small grid, and different versions of mods.
 [*]Adjust AI for individual drivers to best match their performance during the season (huge project, will take some more time).
 [/LIST]
-Current required contents download list:
+
+[B]Current required contents download list:[/B]
 [LIST]
-[*][URL]http://www.racedepartment.com/downloads/911-gt3-supercup-2016-skin-pack.13140/[/URL]
+[*]Skin 1: [URL]http://www.racedepartment.com/downloads/911-gt3-supercup-2016-skin-pack.13140/[/URL]
 
-[*][URL]http://www.racedepartment.com/downloads/pmsc-2016-momo-megatron-team-partrax-48.13543/[/URL]
+[*]Skin 2: [URL]http://www.racedepartment.com/downloads/pmsc-2016-momo-megatron-team-partrax-48.13543/[/URL]
 
-[*][URL]http://www.racedepartment.com/downloads/pmsc-2016-dinamic-motorsport-36-37-38.13582/[/URL]
+[*]Skin 3: [URL]http://www.racedepartment.com/downloads/pmsc-2016-dinamic-motorsport-36-37-38.13582/[/URL]
 
-[*][URL]http://www.racedepartment.com/downloads/hockenheimring-multi-layout.7223/[/URL]
+[*]Track 1: [URL]http://www.racedepartment.com/downloads/hockenheimring-multi-layout.7223/[/URL]
+
 [/LIST]
 This is the first career mode that I try to create and share. Please provide feedback on it so I can keep improving it, and help me make more and better custom career mode in the future.
+
+[B]Updates:[/B]
+[B]0.2 2017-02-18[/B]
+There is no need to remove files from previous version when installing the update.
+Changes:
+[LIST]
+[*]Tested all races again. Will adjust grip levels according to real world weather in the future.
+[*]Changed duplicate #23 Pedersen's car to #21 Thomas Laurent.
+[*]Corrected race start time. Now the race start time is as close as possible to the race session time on real official timetables.
+[*]New start screen. Logos are made to resemble actual logo used in EuroSport live broadcast.
+Due to the [URL='http://www.racedepartment.com/downloads/hungaroring.2577/']Hungaroring track on RaceDepartment[/URL] being broken for offline racoing, planned update to add Hungaroring is canceled.
+[/LIST]
+
+[B]0.1 2017-01-29[/B]
+Initial release
