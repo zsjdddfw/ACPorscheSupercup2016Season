@@ -1,4 +1,4 @@
-![ACPorscheSupercup2016 Start Screen](\Resources\Pics\TitleScreen.png)
+![ACPorscheSupercup2016 Start Screen](http://i.imgur.com/ifRhE92.png)
 
 # ACPorscheSupercup2016Season
 Assetto Corsa Porsche Supercup 2016 Season Custom Championship mod
@@ -25,9 +25,9 @@ This custom championship mod is created by Shijie "St3fan" Zhang for racing simu
 
 * Skin 2: [http://www.racedepartment.com/downloads/pmsc-2016-momo-megatron-team-partrax-48.13543/](http://www.racedepartment.com/downloads/pmsc-2016-momo-megatron-team-partrax-48.13543/)
 
-[*]Skin 3: [http://www.racedepartment.com/downloads/pmsc-2016-dinamic-motorsport-36-37-38.13582/](http://www.racedepartment.com/downloads/pmsc-2016-dinamic-motorsport-36-37-38.13582/)
+* Skin 3: [http://www.racedepartment.com/downloads/pmsc-2016-dinamic-motorsport-36-37-38.13582/](http://www.racedepartment.com/downloads/pmsc-2016-dinamic-motorsport-36-37-38.13582/)
 
-[*]Track 1: [http://www.racedepartment.com/downloads/hockenheimring-multi-layout.7223/](http://www.racedepartment.com/downloads/hockenheimring-multi-layout.7223/)
+* Track 1: [http://www.racedepartment.com/downloads/hockenheimring-multi-layout.7223/](http://www.racedepartment.com/downloads/hockenheimring-multi-layout.7223/)
 
 ## Changelog
 ### 0.2 2017-02-18
@@ -38,10 +38,11 @@ Changes:
 * Corrected race start time. Now the race start time is as close as possible to the race session time on real official timetables.
 * New start screen. Logos are made to resemble actual logo used in EuroSport live broadcast.
 * Due to the [Hungaroring track on RaceDepartment](http://www.racedepartment.com/downloads/hungaroring.2577/) being broken for offline racoing, planned update to add Hungaroring is canceled.
-[/LIST]
 
-[B]0.1 2017-01-29[/B]
+### 0.1 2017-01-29
 Initial release
 
 
-Still WIP, you can check [the lastest version on RaceDepartment](http://www.racedepartment.com/downloads/porsche-supercup-2016-season.13661/)
+
+
+*Still WIP, you can check [the lastest version on RaceDepartment](http://www.racedepartment.com/downloads/porsche-supercup-2016-season.13661/)*
